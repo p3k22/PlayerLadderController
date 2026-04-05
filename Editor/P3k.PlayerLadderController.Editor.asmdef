@@ -1,0 +1,19 @@
+{
+    "name": "P3k.PlayerLadderController.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:252e4382f523cc94184cf40b6266dbb6",
+        "GUID:aa3e66fe61faf214e88fb6552535514e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

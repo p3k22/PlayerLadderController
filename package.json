@@ -1,0 +1,11 @@
+{
+  "name": "com.p3k.playerladdercontroller",
+  "version": "1.0.0",
+  "displayName": "Player Ladder Controller",
+  "description": "",
+  "unity": "2020.1",
+  "documentationUrl": "https://github.com/p3k22/PlayerLadderController/#readme",
+  "author": {
+    "name": "P3k"
+  }
+}

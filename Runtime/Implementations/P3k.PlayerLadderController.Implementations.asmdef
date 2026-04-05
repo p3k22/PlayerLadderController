@@ -1,0 +1,16 @@
+{
+    "name": "P3k.PlayerLadderController.Implementations",
+    "rootNamespace": "",
+    "references": [
+        "GUID:252e4382f523cc94184cf40b6266dbb6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
